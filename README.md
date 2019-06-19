@@ -8,7 +8,7 @@
  O script serve para minificar css e img, sem atrapalhar seu desenvolvimento, ele criar  uma pasta "SRC", dentro da pasta do projeto, e copia seu projeto inteiro para lá, após a copia ele iniciar a compressão.
 ### Preparar o script para instalação
 #### Instale as dependencia
->Entre na pasta do Minificador e execute o seguinte comando
+>Entre na pasta do script e execute o seguinte comando, para instalar as dependencias
 
 `$ npm install`
 
@@ -18,7 +18,7 @@
 https://tinypng.com/developers
 
 #### Instale o script
->Entre na pasta do Minificador e execute o seguinte comando
+>Entre na pasta do script e execute o seguinte comando para utilizar o 'minificar' pela linha de comando
 
 `$ npm link`
 
