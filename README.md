@@ -3,9 +3,7 @@
 #Minificador de CSS e IMG
 
 
-**Conteudo**
-
-[TOCM]
+**Sumário**
 
 [TOC]
 ###Funcionamento
