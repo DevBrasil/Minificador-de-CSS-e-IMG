@@ -1,0 +1,29 @@
+{
+  "name": "minificador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js",
+    "build-no-image": "node."
+  },
+  "author": "Fernando Brasil",
+  "license": "ISC",
+  "bin": {
+    "minificar": "./index.js"
+  },
+  "dependencies": {
+    "cssnano": "^4.1.10",
+    "fs-extra": "^8.0.1",
+    "gm": "^1.23.1",
+    "i": "^0.3.6",
+    "minify-all": "^1.2.2",
+    "node-minify": "^3.6.0",
+    "recursive-copy": "^2.0.10",
+    "tinify": "^1.6.0-beta.2"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.1"
+  }
+}
